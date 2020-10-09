@@ -1,4 +1,4 @@
-#Exemplo 01 - Weskley Gustavo
+#Exemplo 08 - Weskley Gustavo
 
 print 'Informe o preço do primeiro produto: '
 valor_do_primeiro = gets.to_f
