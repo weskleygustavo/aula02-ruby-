@@ -1,4 +1,4 @@
-#Exemplo 01 - Weskley Gustavo
+#Exemplo 07 - Weskley Gustavo
 
 print 'Entre com o primeiro número: '
 primeiro_numero = gets.to_i
