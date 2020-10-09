@@ -1,4 +1,4 @@
-#Exemplo 01 - Weskley Gustavo
+#Exemplo 02 - Weskley Gustavo
 
 print "Entre  com um numero: "
 numero = gets.to_i
