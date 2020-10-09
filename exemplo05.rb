@@ -1,4 +1,4 @@
-#Exemplo 01 - Weskley Gustavo
+#Exemplo 05 - Weskley Gustavo
 
 print 'Entre com a primeira nota: '
 primeira_nota = gets.to_f
