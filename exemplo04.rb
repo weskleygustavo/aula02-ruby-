@@ -1,4 +1,4 @@
-#Exemplo 01 - Weskley Gustavo
+#Exemplo 04 - Weskley Gustavo
 
 print 'Entre com um caracter: '
 caracter = gets.chomp.downcase
